@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mern Stack Development
+
+- 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:mahatosiddhant29@gmail.com
 - 😄 Pronouns: He/Him
