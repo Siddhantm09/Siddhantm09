@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on MERN Stack Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Cloud Computing 
 - 📫 How to reach me:mahatosiddhant29@gmail.com
 - 😄 Pronouns: He/Him
 
