@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on MERN Stack Development
-- 🌱 I’m currently learning Cloud Computing 
+- 🔭 I’m currently working on Full Stack Development
+- 🌱 I’m currently learning React 
 - 📫 How to reach me:mahatosiddhant29@gmail.com
 - 😄 Pronouns: He/Him
 
