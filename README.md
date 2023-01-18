@@ -22,4 +22,4 @@
 <img align="left" alt="Material UI" width="26px" src="https://img.icons8.com/color/512/material-ui.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/512/bootstrap.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://img.icons8.com/color/512/nodejs.png" />
-<img align="left" alt="ExpressJs" width="26px" src='https://images.velog.io/images/guri_coding/post/657f341a-b879-48b7-8af6-f643fcae6f94/express-logo.jpeg'/>
+<img align="left" alt="ExpressJs" width="26px" height='27px' src='https://images.velog.io/images/guri_coding/post/657f341a-b879-48b7-8af6-f643fcae6f94/express-logo.jpeg'/>
