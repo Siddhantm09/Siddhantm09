@@ -13,7 +13,7 @@
 
 
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png?w=128&f=avif" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png?w=128&f=avif" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,4 +22,4 @@
 <img align="left" alt="Material UI" width="26px" src="https://img.icons8.com/color/512/material-ui.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/512/bootstrap.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://img.icons8.com/color/512/nodejs.png" />
-<img align="left" alt="ExpressJs" width="26px" src="https://img.icons8.com/color/512/nodejs.png" />
+<img align="left" alt="ExpressJs" width="26px" src='https://cdn.iconscout.com/icon/free/png-256/express-9-1175170.png?w=128&f=avif' />
