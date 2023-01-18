@@ -22,4 +22,4 @@
 <img align="left" alt="Material UI" width="26px" src="https://img.icons8.com/color/512/material-ui.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/512/bootstrap.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://img.icons8.com/color/512/nodejs.png" />
-<img align="left" alt="ExpressJs" width="26px" src='https://cdn.iconscout.com/icon/free/png-256/express-9-1175170.png?w=128&f=avif' />
+<img align="left" alt="ExpressJs" width="26px" src='https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png' />
