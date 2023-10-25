@@ -2,8 +2,8 @@
 
 
 
+- 🌱 React JS Developer 
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning React 
 - 📫 How to reach me: mahatosiddhant29@gmail.com
 - 😄 Pronouns: He/Him
 
